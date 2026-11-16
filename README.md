@@ -164,8 +164,11 @@ Property listing and apartment-buying platform with secure, role-based data acce
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=faysal-khann&show_icons=true&hide_border=true&theme=default&count_private=false" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysal-khann&layout=compact&hide_border=true&theme=default" />
+<img width="49%" alt="GitHub stats" src="https://raw.githubusercontent.com/faysal-khann/faysal-khann/main/profile-summary-card-output/github/3-stats.svg" />
+<img width="49%" alt="Most used languages" src="https://raw.githubusercontent.com/faysal-khann/faysal-khann/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+
+<img width="49%" alt="Repositories per language" src="https://raw.githubusercontent.com/faysal-khann/faysal-khann/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+<img width="49%" alt="Profile details" src="https://raw.githubusercontent.com/faysal-khann/faysal-khann/main/profile-summary-card-output/github/0-profile-details.svg" />
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=faysal-khann&hide_border=true" />
 
